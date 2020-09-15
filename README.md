@@ -7,7 +7,7 @@
 - notebook共有四个block，第一个是import所有的dependencies（初始化），第二个是下载网页上的文档（如果直接用GitHub的文件夹就不需要），第三个是所有的methods，第四个是main function。
 - excel_urls.csv中，详细记录了需要爬取的网站url、发布机构、平台以及对应的db表单名。其中有五个无法识别的图片网站。
 - type_dict 包含bad_website库需要的类别字典。
-
+- 【图片文字识别】http://zjt.aniu.tv/Index_detail_wzid_107891.shtml 这个网站爬取过程中使用了百度api。图片folder：imgs，excel folder：img_output_forms。可以相互比对进行人工核验
 
 
 # 思路
