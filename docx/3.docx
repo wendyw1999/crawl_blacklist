@@ -1,0 +1,33 @@
+
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title></title>
+<script language="javascript">
+function self_open(link){
+  document.body.appendChild(document.createElement('iframe')).src='javascript:"<script>top.location.replace(\''+link+'\')<\/script>"';
+}
+
+</script>
+<script type="text/javascript">
+
+location.href = "https://www.nmpa.gov.cn/directory/web/nmpa/images/uL28jKjuiDD5srUyLfIz8TayN0uZG9jeA==.docx";
+
+</script>
+<!-- PHPStat Start -->
+<!-- <script language="JavaScript">var _trackDataType = 'web';var _trackData = _trackData || [];</script>
+<script type="text/javascript" charset="utf-8" id="phpstat_js_id_10000063" src="//120.76.215.72/phpstat/count/10000063/10000063.js"></script><noscript><img src="//120.76.215.72/phpstat/count/10000063/10000063.php" alt="PHPStat Analytics"/></noscript> -->
+<!--/PHPStat End -->
+<style type="text/css">
+<!--
+iframe {
+	display:none;
+}
+-->
+</style>
+</head>
+
+</html>

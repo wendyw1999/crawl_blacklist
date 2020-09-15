@@ -1,0 +1,15 @@
+xlrd
+bs4
+datetime
+pdfplumber
+lxml
+cx_Oracle
+regex
+docx
+pandas
+numpy
+requests
+urllib
+selenium
+socket
+ssl
